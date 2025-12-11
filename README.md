@@ -7,3 +7,4 @@ This repo contains:
 - Contact form
 - Testimonials section
 - Merge conflict resolution practice
+CI workflow test
