@@ -8,3 +8,4 @@ This repo contains:
 - Testimonials section
 - Merge conflict resolution practice
 - CI workflow test
+- Testing CI workflow run.
