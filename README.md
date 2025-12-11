@@ -1,3 +1,5 @@
+![CI Workflow](https://github.com/ahenderson908/branching-lab/actions/workflows/ci.yml/badge.svg)
+
 # Branching, Merging, and Handling Conflicts Lab
 
 This repo contains:
